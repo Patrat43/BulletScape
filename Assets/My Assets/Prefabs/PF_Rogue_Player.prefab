@@ -221,6 +221,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Health
   health: 3
   damageCooldown: 1
+  debugInvincibility: 0
   AudioSource: {fileID: 0}
 --- !u!114 &-5278066114789302431
 MonoBehaviour:
